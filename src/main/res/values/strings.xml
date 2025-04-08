@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DEFECT RELATED STRINGS [!need override!] -->
+    <string name="defect_title"/>
+    <string name="defect_header_photos"/>
+    <string name="defect_header_location"/>
+    <string name="defect_header_defect"/>
+    <string name="defect_personal_data"/>
+
+    <string name="defect_sent_successfully"/>
+    <string name="defect_failure"/>
+</resources>
